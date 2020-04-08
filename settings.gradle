@@ -1,0 +1,3 @@
+rootProject.name='myanmar_font_detect'
+include ':app'
+include ':app:zawgyiuni_detect'
