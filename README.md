@@ -1,6 +1,7 @@
-##ဖုန်းတွေကို မြန်မာစာ မှန်အောင် ( zawgyi ,uni ) ဒီ libလေးကိူ အဆင်သင့်အသုံးပြုနိုင်ပါတယ် <br>
-#embed fontကို MyMyanmarX.ttf ကိုသုံးထားပါတယ်
-<block>
+<h1>ဖုန်းတွေကို မြန်မာစာ မှန်အောင် ( zawgyi ,uni ) ဒီ libလေးကိူ အဆင်သင့်အသုံးပြုနိုင်ပါတယ် </h1>
+embed fontကို MyMyanmarX.ttf ကိုသုံးထားပါတယ်
+
+
 အဆင့် ၁
 build.gradle(root) အောက်မှာ
 allprojects {
