@@ -1,25 +1,29 @@
 # ဖုန်းတွေကို မြန်မာစာ မှန်အောင် ( zawgyi ,uni ) ဒီ libလေးကိူ အဆင်သင့်အသုံးပြုနိုင်ပါတယ် 
 embed fontကို MyMyanmarX.ttf ကိုသုံးထားပါတယ်
 
+How to add to your project
+--------------
 
-အဆင့် ၁
-build.gradle(root) အောက်မှာ
-allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
-	}
-ဘာကြောင့်လဲဆိုတော့ ကျွန်တော်တို့ module project ကို jitpack.io မှာတင်ထားတာဖြစ်လို့ပါ
+1. Add jitpack.io to your root build.gradle file:
 
-အဆင့် ၂
-build.gradle (app)  အောက်မှာ ဒီအကြောင်းလေးထည့်ပေးပါ
+     ```groovy
+       allprojects {
+         repositories {
+           ...
+           maven { url 'https://jitpack.io' }
+         }
+       }
 
-dependencies {
-	        implementation 'com.github.mgkaung692018:myanmar_font_detect:1.02'
-	              }
-ပထမဆုံး lib ထုတ်တာစမ်းထားတော့ implementation ကို ခေါရတာ ရှည်သလို လေးတော့ဖစ်နေမာ 
-</block>
+2. Add library to your app build.gradle file then sync
+
+   Release version - [![Download](https://raw.githubusercontent.com/kyawhtut-cu/Sheet2Json/master/screenshoot/download.svg?sanitize=true)](https://github.com/kyawhtut-cu/Sheet2Json/releases/)
+
+   ```groovy
+   dependencies {
+      ...
+      implementation 'implementation 'com.github.mgkaung692018:myanmar_font_detect:<version-release>'
+   }
+   ```
 
 
 အသုံးပြုနည်းကတော့ရိုးရှင်းပါတယ်
