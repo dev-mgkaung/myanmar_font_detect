@@ -16,7 +16,7 @@ How to add to your project
 
 2. Add library to your app build.gradle file then sync
 
-   Release version - [![Download](https://raw.githubusercontent.com/kyawhtut-cu/Sheet2Json/master/screenshoot/download.svg?sanitize=true)](https://github.com/dev-mgkaung/myanmar_font_detect/releases/)
+   Release version - [![Download](https://raw.githubusercontent.com/kyawhtut-cu/Sheet2Json/master/screenshoot/download.svg?sanitize=true)](1.02)
 
    ```groovy
    dependencies {
