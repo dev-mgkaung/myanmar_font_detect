@@ -21,15 +21,12 @@ How to add to your project
    ```groovy
    dependencies {
       ...
-      implementation 'implementation 'com.github.mgkaung692018:myanmar_font_detect:<version-release>'
+      implementation 'com.github.mgkaung692018:myanmar_font_detect:<version-release>'
    }
    ```
+-------------------
 
-
-အသုံးပြုနည်းကတော့ရိုးရှင်းပါတယ်
-
-
-အသုံးပြုနည်းကတော့ရိုးရှင်းပါတယ်
+# အသုံးပြုနည်းကတော့ရိုးရှင်းပါတယ်
 
 <ul>
 	<li>TextView လို့ သူံးမဲ့အစား MMTextView ကိုသုံးရမှာပါ </li>
