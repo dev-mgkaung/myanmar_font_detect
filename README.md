@@ -1,20 +1,22 @@
-# myanmar_font_detect
-Embedded zawgyi uni myanmar font
+ဖုန်းတွေကို မြန်မာစာ မှန်အောင် ( zawgyi ,uni ) ဒီ libလေးကိူ အဆင်သင့်အသုံးပြုနိုင်ပါတယ်
+embed fontကို MyMyanmarX.ttf ကိုသုံးထားပါတယ်
 
-
-
-Step 1. Add the JitPack repository to your build file
-
-Add it in your root build.gradle at the end of repositories:
-
-	allprojects {
+အဆင့် ၁
+build.gradle(root) အောက်မှာ
+allprojects {
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
 		}
 	}
-Step 2. Add the dependency
+ဘာကြောင့်လဲဆိုတော့ ကျွန်တော်တို့ module project ကို jitpack.io မှာတင်ထားတာဖြစ်လို့ပါ
 
-	dependencies {
+အဆင့် ၂
+build.gradle (app)  အောက်မှာ ဒီအကြောင်းလေးထည့်ပေးပါ
+
+dependencies {
 	        implementation 'com.github.mgkaung692018:myanmar_font_detect:1.02'
-	}
+	              }
+ပထမဆုံး lib ထုတ်တာစမ်းထားတော့ implementation ကို ခေါရတာ ရှည်သလို လေးတော့ဖစ်နေမာ 
+
+
