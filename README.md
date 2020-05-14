@@ -23,15 +23,16 @@ dependencies {
 
 အသုံးပြုနည်းကတော့ရိုးရှင်းပါတယ်
 
-<ul>
-	<li><TextView> လို့ သူံးမဲ့အစား <MMTextView> ကိုသုံးရမှာပါ </li>
-		<li><EditText>  လို့ သူံးမဲ့အစား <MMEditText> ကိုသုံးရမှာပါ  </li>
-			<li><Button>  လို့ သူံးမဲ့အစား <MMButton> ကိုသုံးရမှာပါ  </li>
-				<li><BottomNavigation>  လို့ သူံးမဲ့အစား <MMBottomNavigation> ကိုသုံးရမှာပါ </li>
-					<li><NavigationDrawer>   လို့ သူံးမဲ့အစား <MMNavigationDrawer> ကိုသုံးရမှာပါ </li>
-						<li><Progressbar>  လို့ သူံးမဲ့အစား <MMProgressbar> ကိုသုံးရမှာပါ </li>
-							<li><Dialog>  လို့ သူံးမဲ့အစား <MMDialog> ကိုသုံးရမှာပါ </li>
-								</ul>
 
+အသုံးပြုနည်းကတော့ရိုးရှင်းပါတယ်
 
+<block>
+<TextView> လို့ သူံးမဲ့အစား <MMTextView> ကိုသုံးရမှာပါ 
+<EditText>  လို့ သူံးမဲ့အစား <MMEditText> ကိုသုံးရမှာပါ 
+<Button>  လို့ သူံးမဲ့အစား <MMButton> ကိုသုံးရမှာပါ 
+<BottomNavigation>  လို့ သူံးမဲ့အစား <MMBottomNavigation> ကိုသုံးရမှာပါ 
+<NavigationDrawer>   လို့ သူံးမဲ့အစား <MMNavigationDrawer> ကိုသုံးရမှာပါ 
+<Progressbar>  လို့ သူံးမဲ့အစား <MMProgressbar> ကိုသုံးရမှာပါ 
+<Dialog>  လို့ သူံးမဲ့အစား <MMDialog> ကိုသုံးရမှာပါ 
+</block
 
