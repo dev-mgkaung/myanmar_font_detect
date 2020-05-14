@@ -23,7 +23,7 @@ dependencies {
 
 အသုံးပြုနည်းကတော့ရိုးရှင်းပါတယ်
 
-<ui>
+<ul>
 	<li><TextView> လို့ သူံးမဲ့အစား <MMTextView> ကိုသုံးရမှာပါ </li>
 		<li><EditText>  လို့ သူံးမဲ့အစား <MMEditText> ကိုသုံးရမှာပါ  </li>
 			<li><Button>  လို့ သူံးမဲ့အစား <MMButton> ကိုသုံးရမှာပါ  </li>
@@ -31,7 +31,7 @@ dependencies {
 					<li><NavigationDrawer>   လို့ သူံးမဲ့အစား <MMNavigationDrawer> ကိုသုံးရမှာပါ </li>
 						<li><Progressbar>  လို့ သူံးမဲ့အစား <MMProgressbar> ကိုသုံးရမှာပါ </li>
 							<li><Dialog>  လို့ သူံးမဲ့အစား <MMDialog> ကိုသုံးရမှာပါ </li>
-								</ui>
+								</ul>
 
 
 
